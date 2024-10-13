@@ -1,8 +1,3 @@
-/88/tetris/88
-
-
-
-
 [Uploa<!DOCTYPE html>
 <html lang="en">
 <head>
